@@ -1,0 +1,9 @@
+[16:38, 22/06/2022] Contabililidade: multa rescisoria R$ 686,74 vencimento 12/01/2022 Daniele
+[16:38, 22/06/2022] Contabililidade: multa rescisoria R$ 470,44 venc 14/01/2022 Valmir
+[16:39, 22/06/2022] Contabililidade: multa rescisoria R$ 255,53 venc 31/03 Elisangela
+[16:39, 22/06/2022] Contabililidade: multa rescisoria R$ 452,88 venc 13/05 Matheus
+[16:49, 22/06/2022] Contabililidade: INSS 12/2021 venc 20/01/2022 R$ 646,50
+[16:51, 22/06/2022] Contabililidade: FGTS 04/2022 r$ 453,11 venc 13/05/2022
+[16:51, 22/06/2022] Contabililidade: FGTS 03/2022 R$ 471,04 venc 13/05/2022
+[16:52, 22/06/2022] Contabililidade: FGTS 01/2022 R$ 506,43 VENC 23/02/2022
+[16:53, 22/06/2022] Contabililidade: FGTS 02/2022 R$ 717,98 VENC 31/03/2022
